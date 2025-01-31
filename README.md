@@ -1,0 +1,1 @@
+Simple ping game in JavaScript to test and learn collision methods
